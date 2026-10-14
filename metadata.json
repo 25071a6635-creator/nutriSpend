@@ -1,0 +1,6 @@
+{
+  "name": "AI Food, Nutrition & Expense Analyzer",
+  "description": "Smart meal logging, budget tracking, nutritional analytics, and Gemini AI-powered meal suggestions for college students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
